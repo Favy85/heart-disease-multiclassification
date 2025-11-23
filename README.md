@@ -1,1 +1,1 @@
-# heart-disease-multiclassification
+# my-projects
